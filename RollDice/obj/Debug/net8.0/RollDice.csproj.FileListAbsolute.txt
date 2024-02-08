@@ -1,0 +1,14 @@
+C:\Users\PC_LION\source\repos\RollDice\RollDice\bin\Debug\net8.0\RollDice.exe
+C:\Users\PC_LION\source\repos\RollDice\RollDice\bin\Debug\net8.0\RollDice.deps.json
+C:\Users\PC_LION\source\repos\RollDice\RollDice\bin\Debug\net8.0\RollDice.runtimeconfig.json
+C:\Users\PC_LION\source\repos\RollDice\RollDice\bin\Debug\net8.0\RollDice.dll
+C:\Users\PC_LION\source\repos\RollDice\RollDice\bin\Debug\net8.0\RollDice.pdb
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\RollDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\RollDice.AssemblyInfoInputs.cache
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\RollDice.AssemblyInfo.cs
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\RollDice.csproj.CoreCompileInputs.cache
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\RollDice.dll
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\refint\RollDice.dll
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\RollDice.pdb
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\RollDice.genruntimeconfig.cache
+C:\Users\PC_LION\source\repos\RollDice\RollDice\obj\Debug\net8.0\ref\RollDice.dll
